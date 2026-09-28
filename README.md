@@ -14,4 +14,4 @@ By adopting a structured multiple-baseline strategy, study teams can improve dat
 
 Keywords: ADaM, CDISC, Multiple Baselines, BASETYPE, ABLFL, APERIOD, Clinical Programming, Traceability, Regulatory Compliance, Data Standards, Clinical Trials.
 
-Please find the PDF for th examples and approach
+Please find the PDF for the examples and approach
